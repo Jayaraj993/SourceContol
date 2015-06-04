@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:popupTheme="@style/Theme.AppCompat.Light.NoActionBar"
+    app:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+    android:id="@+id/activity_custom_action_bar_view"
+    android:background="@color/material_blue_grey_800"/>
+
+    <!-- this one for  menu popup theme-->
+
+    <!-- this is enough for custom actionbar-->
